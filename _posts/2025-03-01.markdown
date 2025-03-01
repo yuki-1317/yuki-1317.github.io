@@ -1,12 +1,15 @@
 ---
 layout:     post
-title:      "我的高数笔记"
-auther:     "yuki"
-header-style: text
-catalog:     ture
-tag:
+title:      "Hello 2025"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2025-03-01 08:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
     - math
 ---
+
 # 高等数学
 
 ## 第八章 空间解析几何与向量代数
