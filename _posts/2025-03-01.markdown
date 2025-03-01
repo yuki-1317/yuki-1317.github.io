@@ -2,7 +2,7 @@
 layout:     post
 title:      "我的高数笔记"
 auther:     "yuki"
-header-style:text
+header-style: text
 catalog:     ture
 tag:
     - math
