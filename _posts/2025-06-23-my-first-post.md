@@ -3,11 +3,10 @@
 ---
 
 layout: post
-title: "我的第一篇文章"
-subtitle: "编程与网络安全"
+title: "Linux学习笔记（1）"
+subtitle: "计算机，Linux"
 date: 2025-06-23 10:00:00 +0800
-author: "周天鲁"
-categories: [编程, 网络安全]
+author: "yukino"
 tags: [Jekyll, 技术, 博客]
 
 ---
