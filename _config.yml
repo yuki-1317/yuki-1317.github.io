@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: Yukino1317@outlook.com
 description: "这里是 @yuki-1317 的个人博客，与你一起发现更大的世界 | 做一个有技术的二次元"
 keyword: "yuki, 二次元"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://yuki-1317.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 github_username: yuki-1317
-twitter_username: yukino
+twitter_username: @yukino883756
 #linkedin_username:  fir
 
 # Build settings
@@ -56,7 +56,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: yuki
 
 # Netease settings
 netease_comment: false
