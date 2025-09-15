@@ -6,7 +6,7 @@ title: "正经人谁写博客啊"
 
 subtitle: "日常，非技术"
 
-date: 2025-09-15 10:00:00 +0800
+date: 2025-09-15
 
 author: "yukino"
 
