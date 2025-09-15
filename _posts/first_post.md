@@ -10,7 +10,7 @@ date: 2025-09-15
 
 author: "yukino"
 
-tags:[闲谈]
+tags: [闲谈]
 
 --- 
 
